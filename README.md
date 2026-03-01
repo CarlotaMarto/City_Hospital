@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="city_hospital.jpg" width="600"/>
+  <img src="city_hospital.png" width="700"/>
 </p>
